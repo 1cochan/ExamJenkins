@@ -1,0 +1,17 @@
+PODS:
+  - Kiwi/ARC (2.2.4)
+  - Kiwi/NonARC (2.2.4)
+  - Kiwi/XCTest (2.2.4):
+    - Kiwi/ARC
+    - Kiwi/NonARC
+  - Nocilla (0.8.1)
+
+DEPENDENCIES:
+  - Kiwi/XCTest
+  - Nocilla
+
+SPEC CHECKSUMS:
+  Kiwi: d60d7498b640a16f58b01925fc3c8d7c4d809f66
+  Nocilla: 0c8075046df476b1bc6482caa7f6a69db1a9b277
+
+COCOAPODS: 0.29.0
