@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Kiwi/Classes/Core/KWExample.m \
+  /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Kiwi/Classes/Core/KWExample.h \
+  /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Kiwi/Classes/Core/KiwiConfiguration.h \
+  /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Kiwi/Classes/Core/KWLet.h \
+  /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Kiwi/Classes/Core/KWBlock.h \
+  /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Kiwi/Classes/Verifiers/KWVerifying.h \
+  /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Kiwi/Classes/Core/KWExpectationType.h \
+  /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Kiwi/Classes/Nodes/KWExampleNode.h \
+  /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Kiwi/Classes/Core/KWExampleNodeVisitor.h \
+  /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Kiwi/Classes/Core/KWReporting.h \
+  /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Kiwi/Classes/Core/KWExampleDelegate.h \
+  /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Kiwi/Classes/Core/KWExampleSuiteBuilder.h \
+  /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Kiwi/Classes/Nodes/KWContextNode.h \
+  /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Kiwi/Classes/Core/KWMatcherFactory.h \
+  /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Kiwi/Classes/Core/KWMatching.h \
+  /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Kiwi/Classes/Verifiers/KWExistVerifier.h \
+  /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Kiwi/Classes/Verifiers/KWMatchVerifier.h \
+  /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Kiwi/Classes/Verifiers/KWAsyncVerifier.h \
+  /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Kiwi/Classes/Core/KWProbe.h \
+  /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Kiwi/Classes/Core/KWFailure.h \
+  /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Kiwi/Classes/Nodes/KWBeforeEachNode.h \
+  /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Kiwi/Classes/Nodes/KWBlockNode.h \
+  /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Kiwi/Classes/Nodes/KWBeforeAllNode.h \
+  /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Kiwi/Classes/Nodes/KWLetNode.h \
+  /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Kiwi/Classes/Nodes/KWItNode.h \
+  /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Kiwi/Classes/Nodes/KWAfterEachNode.h \
+  /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Kiwi/Classes/Nodes/KWAfterAllNode.h \
+  /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Kiwi/Classes/Nodes/KWPendingNode.h \
+  /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Kiwi/Classes/Nodes/KWRegisterMatchersNode.h \
+  /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Kiwi/Classes/Core/KWWorkarounds.h \
+  /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Kiwi/Classes/Stubbing/KWIntercept.h \
+  /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Kiwi/Classes/Core/KWExampleSuite.h \
+  /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Kiwi/Classes/Core/KWCallSite.h \
+  /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Kiwi/Classes/Core/KWSymbolicator.h

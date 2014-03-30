@@ -1,0 +1,93 @@
+TPods-ExamJenkinsTests
+v6
+r1
+cCheck dependencies
+cCompileC /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ExamJenkinsTests.build/Objects-normal/i386/Pods-ExamJenkinsTests-dummy.o /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Pods-ExamJenkinsTests-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/libPods-ExamJenkinsTests.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000527843B10000000000A92BC0
+t1383613361
+s11086784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000527843C500000000000003B5
+t1383613381
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000527843D100000000000001A0
+t1383613393
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000525638CE0000000000000AC9
+t1381382350
+s2761
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ExamJenkinsTests.build/Objects-normal/i386/Pods-ExamJenkinsTests-dummy.o
+t1396136749
+s3516
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ExamJenkinsTests.build/Objects-normal/i386/Pods-ExamJenkinsTests.LinkFileList
+c0000000053375B2C00000000000000D6
+t1396136748
+s214
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/libPods-ExamJenkinsTests-Kiwi.a
+c0000000053375B2C00000000001902F8
+t1396136748
+s1639160
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/libPods-ExamJenkinsTests-Nocilla.a
+c0000000053375B290000000000050A70
+t1396136745
+s330352
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/libPods-ExamJenkinsTests.a
+t2
+s0
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Pods-ExamJenkinsTests-dummy.m
+c0000000053369E660000000000000092
+t1396088422
+s146
+
+CBuild AST from /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Pods-ExamJenkinsTests-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciese86b42ac92e7b841^2d2444ac92e7b841^---0#1#1#--18"Check dependencies36"39CB2413-A028-4295-BAD8-63A7B0EE6202-
+
+CCompileC /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ExamJenkinsTests.build/Objects-normal/i386/Pods-ExamJenkinsTests-dummy.o /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Pods-ExamJenkinsTests-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417829548.266941
+e417829549.052828
+r1
+xCompileC
+x/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ExamJenkinsTests.build/Objects-normal/i386/Pods-ExamJenkinsTests-dummy.o
+x/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Pods-ExamJenkinsTests-dummy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Pods-ExamJenkinsTests-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Pods-ExamJenkinsTests-dummy.m320"CompileC /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ExamJenkinsTests.build/Objects-normal/i386/Pods-ExamJenkinsTests-dummy.o Pods-ExamJenkinsTests-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera27d44ac92e7b841^ec8a0dad92e7b841^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Pods-ExamJenkinsTests-dummy.m0000000000000000^5420"CompileC /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ExamJenkinsTests.build/Objects-normal/i386/Pods-ExamJenkinsTests-dummy.o Pods-ExamJenkinsTests-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ExamJenkinsTests.build/Pods-ExamJenkinsTests-generated-files.hmap -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ExamJenkinsTests.build/Pods-ExamJenkinsTests-own-target-headers.hmap -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ExamJenkinsTests.build/Pods-ExamJenkinsTests-all-target-headers.hmap -iquote /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ExamJenkinsTests.build/Pods-ExamJenkinsTests-project-headers.hmap -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/include -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Pods/Headers -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Pods/Headers/Kiwi -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Pods/Headers/Nocilla -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ExamJenkinsTests.build/DerivedSources/i386 -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ExamJenkinsTests.build/DerivedSources -F/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -isystem/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Pods/Headers -isystem/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Pods/Headers/Kiwi -isystem/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Pods/Headers/Nocilla -MMD -MT dependencies -MF /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ExamJenkinsTests.build/Objects-normal/i386/Pods-ExamJenkinsTests-dummy.d --serialize-diagnostics /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ExamJenkinsTests.build/Objects-normal/i386/Pods-ExamJenkinsTests-dummy.dia -c /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods/Pods-ExamJenkinsTests-dummy.m -o /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ExamJenkinsTests.build/Objects-normal/i386/Pods-ExamJenkinsTests-dummy.o36"EC82BE13-8F8C-4E8F-ADFA-1DC9AEA70705-
+b9A308FFE-11D3-45FC-A4F7-EC440AA82B11
+
+CLibtool /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/libPods-ExamJenkinsTests.a normal i386
+s417829549.053993
+e417829549.152604
+r1
+xLibtool
+x/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/libPods-ExamJenkinsTests.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection166"Libtool /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/libPods-ExamJenkinsTests.a normal i386166"Libtool /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/libPods-ExamJenkinsTests.a normal i38686e70dad92e7b841^061327ad92e7b841^---0#0#1#--1310"Libtool /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/libPods-ExamJenkinsTests.a normal i386    cd /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/Pods    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator -filelist /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-ExamJenkinsTests.build/Objects-normal/i386/Pods-ExamJenkinsTests.LinkFileList -framework Foundation -lPods-ExamJenkinsTests-Kiwi -lPods-ExamJenkinsTests-Nocilla -o /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/libPods-ExamJenkinsTests.a36"826DC9EB-FF7E-433E-992A-C1BF9478CE1F-
+b9A308FFE-11D3-45FC-A4F7-EC440AA82B11
+

@@ -1,0 +1,519 @@
+TExamJenkins
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/PrecompiledHeaders/ExamJenkins-Prefix-eygwcpyhplpwpwbhpirshhvialnk/ExamJenkins-Prefix.pch.pch ExamJenkins/ExamJenkins-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/SendInfoDelegater.o /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SendInfoDelegater.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/SDK.o /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SDK.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/ViewController.o /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/Info.o /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/Info.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/NSString+APUtility.o /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/NSString+APUtility.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/AppDelegate.o /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/main.o /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/ExamJenkins normal i386
+cCompileStoryboard /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/Base.lproj/Main_iPad.storyboard
+cCompileStoryboard /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/Base.lproj/Main_iPhone.storyboard
+cCopyStringsFile /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/en.lproj/InfoPlist.strings ExamJenkins/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/Images.xcassets
+cProcessInfoPlistFile /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/Info.plist /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/ExamJenkins-Info.plist
+cGenerateDSYMFile /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app.dSYM /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/ExamJenkins
+cTouch /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000527843C500000000000003B5
+t1383613381
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000527843D100000000000001A0
+t1383613393
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000527843D50000000000445870
+t1383613397
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000527843D8000000000088C680
+t1383613400
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000527843DD0000000001DB9910
+t1383613405
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000525638CE0000000000000AC9
+t1381382350
+s2761
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/AppDelegate.o
+t1396136741
+s65296
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/ExamJenkins.LinkFileList
+c0000000053375B21000000000000054F
+t1396136737
+s1359
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/Info.o
+t1396136741
+s21560
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/NSString+APUtility.o
+t1396136741
+s10028
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/SDK.o
+t1396136741
+s16020
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/SendInfoDelegater.o
+t1396136741
+s27092
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/ViewController.o
+t1396136741
+s41076
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/main.o
+t1396136741
+s3720
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/assetcatalog_dependencies.txt
+t1396136744
+s522
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/assetcatalog_generated_info.plist
+t1396136744
+s525
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/PrecompiledHeaders/ExamJenkins-Prefix-eygwcpyhplpwpwbhpirshhvialnk/ExamJenkins-Prefix.pch.pch
+t1396136739
+s109104
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app
+t1396136744
+s306
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app.dSYM
+t2
+s0
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/Base.lproj/Main_iPad.storyboardc
+t1396136743
+s170
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/Base.lproj/Main_iPhone.storyboardc
+t1396136743
+s170
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/ExamJenkins
+t1396136742
+s43732
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/Info.plist
+t1396136744
+s1296
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/PkgInfo
+t1396136744
+s8
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/en.lproj/InfoPlist.strings
+t1396136743
+s42
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/AppDelegate.m
+c000000005336821900000000000007DC
+t1396081177
+s2012
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/Base.lproj/Main_iPad.storyboard
+c00000000533682190000000000000644
+t1396081177
+s1604
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/Base.lproj/Main_iPhone.storyboard
+c00000000533682190000000000000630
+t1396081177
+s1584
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/ExamJenkins-Info.plist
+c00000000533682190000000000000637
+t1396081177
+s1591
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/ExamJenkins-Prefix.pch
+c00000000533682190000000000000158
+t1396081177
+s344
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/Images.xcassets
+c00000000533682190000000000000088
+t1396081177
+s136
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/Info.m
+c000000005336A2E600000000000008E3
+t1396089574
+s2275
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/NSString+APUtility.m
+c000000005333B84E0000000000000320
+t1395898446
+s800
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SDK.m
+c000000005336A4EC0000000000000603
+t1396090092
+s1539
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SendInfoDelegater.m
+c000000005336A6A500000000000014FC
+t1396090533
+s5372
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/ViewController.m
+c000000005336821900000000000001F2
+t1396081177
+s498
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/en.lproj/InfoPlist.strings
+c0000000053368219000000000000002D
+t1396081177
+s45
+
+N/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/main.m
+c00000000533682190000000000000156
+t1396081177
+s342
+
+CBuild AST from /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/AppDelegate.m
+r0
+
+CBuild AST from /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/Info.m
+r0
+
+CBuild AST from /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/NSString+APUtility.m
+r0
+
+CBuild AST from /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SDK.m
+r0
+
+CBuild AST from /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SendInfoDelegater.m
+r0
+
+CBuild AST from /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/ViewController.m
+r0
+
+CBuild AST from /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciese1ed8da192e7b841^013393a192e7b841^---0#1#1#--18"Check dependencies36"C84450F4-37D9-47AA-BB63-A5D8FC08A1C6-
+
+CCompileAssetCatalog /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/Images.xcassets
+s417829543.494045
+e417829544.367743
+r1
+xCompileAssetCatalog
+x/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app
+x/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/LaunchImage-700-568h@2x.png
+o/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/Assets.car
+o/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"CompileAssetCatalog DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app ExamJenkins/Images.xcassets124"CompileAssetCatalog DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app ExamJenkins/Images.xcassetse78e7ea792e7b841^57245ea892e7b841^-550"/* com.apple.actool.compilation-results *//Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/LaunchImage-700-568h@2x.png/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/Assets.car/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@94"file:///Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/Images.xcassets/0000000000000000^1387"CompileAssetCatalog DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app ExamJenkins/Images.xcassets    cd /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --target-device ipad --compress-pngs --compile /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/Images.xcassets36"9114BD24-76AC-4698-A784-DED3A519E16C-
+b57D4A075-EFA9-4147-A884-8A6405A263DE
+
+CCompileC DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/AppDelegate.o /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417829541.480993
+e417829541.566674
+r1
+xCompileC
+xDerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/AppDelegate.o
+x/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/AppDelegate.m
+d/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/AppDelegate.m238"CompileC DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/AppDelegate.o ExamJenkins/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler07417ba592e7b841^530791a592e7b841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/AppDelegate.m0000000000000000^4365"CompileC DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/AppDelegate.o ExamJenkins/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/ExamJenkins-generated-files.hmap -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/ExamJenkins-own-target-headers.hmap -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/ExamJenkins-all-target-headers.hmap -iquote /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/ExamJenkins-project-headers.hmap -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/DerivedSources/i386 -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/DerivedSources -F/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator -include /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/PrecompiledHeaders/ExamJenkins-Prefix-eygwcpyhplpwpwbhpirshhvialnk/ExamJenkins-Prefix.pch -MMD -MT dependencies -MF /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/AppDelegate.dia -c /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/AppDelegate.m -o /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/AppDelegate.o36"6D7647ED-580E-4614-82A8-BD26DDDAACC1-
+b57D4A075-EFA9-4147-A884-8A6405A263DE
+
+CCompileC DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/Info.o /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/Info.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417829541.239757
+e417829541.302380
+r1
+xCompileC
+xDerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/Info.o
+x/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/Info.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/Info.m
+d/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/Info.h
+d/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/NSString+APUtility.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/Info.m224"CompileC DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/Info.o ExamJenkins/Info.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler997e3da592e7b841^616c4da592e7b841^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/Info.m0000000000000000^4323"CompileC DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/Info.o ExamJenkins/Info.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/ExamJenkins-generated-files.hmap -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/ExamJenkins-own-target-headers.hmap -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/ExamJenkins-all-target-headers.hmap -iquote /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/ExamJenkins-project-headers.hmap -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/DerivedSources/i386 -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/DerivedSources -F/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator -include /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/PrecompiledHeaders/ExamJenkins-Prefix-eygwcpyhplpwpwbhpirshhvialnk/ExamJenkins-Prefix.pch -MMD -MT dependencies -MF /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/Info.d --serialize-diagnostics /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/Info.dia -c /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/Info.m -o /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/Info.o36"6F33BDE1-7E56-4367-A860-91B63206CFE3-
+b57D4A075-EFA9-4147-A884-8A6405A263DE
+
+CCompileC DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/NSString+APUtility.o /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/NSString+APUtility.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417829541.302795
+e417829541.365952
+r1
+xCompileC
+xDerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/NSString+APUtility.o
+x/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/NSString+APUtility.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/NSString+APUtility.m
+d/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/NSString+APUtility.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/NSString+APUtility.m252"CompileC DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/NSString+APUtility.o ExamJenkins/NSString+APUtility.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9ca84da592e7b841^deb05da592e7b841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/NSString+APUtility.m0000000000000000^4407"CompileC DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/NSString+APUtility.o ExamJenkins/NSString+APUtility.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/ExamJenkins-generated-files.hmap -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/ExamJenkins-own-target-headers.hmap -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/ExamJenkins-all-target-headers.hmap -iquote /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/ExamJenkins-project-headers.hmap -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/DerivedSources/i386 -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/DerivedSources -F/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator -include /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/PrecompiledHeaders/ExamJenkins-Prefix-eygwcpyhplpwpwbhpirshhvialnk/ExamJenkins-Prefix.pch -MMD -MT dependencies -MF /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/NSString+APUtility.d --serialize-diagnostics /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/NSString+APUtility.dia -c /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/NSString+APUtility.m -o /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/NSString+APUtility.o36"2D6B99E9-478B-4919-9AC5-644C5FEB778A-
+b57D4A075-EFA9-4147-A884-8A6405A263DE
+
+CCompileC DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/SDK.o /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SDK.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417829541.101679
+e417829541.166396
+r1
+xCompileC
+xDerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/SDK.o
+x/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SDK.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SDK.m
+d/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SDK.h
+d/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/Info.h
+d/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SendInfoDelegater.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SDK.m222"CompileC DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/SDK.o ExamJenkins/SDK.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler70261aa592e7b841^029c2aa592e7b841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SDK.m0000000000000000^4317"CompileC DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/SDK.o ExamJenkins/SDK.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/ExamJenkins-generated-files.hmap -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/ExamJenkins-own-target-headers.hmap -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/ExamJenkins-all-target-headers.hmap -iquote /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/ExamJenkins-project-headers.hmap -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/DerivedSources/i386 -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/DerivedSources -F/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator -include /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/PrecompiledHeaders/ExamJenkins-Prefix-eygwcpyhplpwpwbhpirshhvialnk/ExamJenkins-Prefix.pch -MMD -MT dependencies -MF /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/SDK.d --serialize-diagnostics /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/SDK.dia -c /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SDK.m -o /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/SDK.o36"F9416DFB-2519-441D-A199-BE060060C888-
+b57D4A075-EFA9-4147-A884-8A6405A263DE
+
+CCompileC DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/SendInfoDelegater.o /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SendInfoDelegater.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417829540.866226
+e417829541.101262
+r1
+xCompileC
+xDerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/SendInfoDelegater.o
+x/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SendInfoDelegater.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SendInfoDelegater.m
+d/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SendInfoDelegater.h
+d/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/Info.h
+o/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SendInfoDelegater.m:76:15: warning: unused variable 'excludeAppKeys' [-Wunused-variable]
+o    NSString *excludeAppKeys = [SendInfoDelegater excludeAppKeys2NSString];
+o              ^
+o/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SendInfoDelegater.m:147:16: warning: unused variable 'recvData' [-Wunused-variable]
+o        NSDictionary *recvData = [NSJSONSerialization JSONObjectWithData:receiveData options:NSJSONReadingAllowFragments error:&JsonErr];
+o                      ^
+o/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SendInfoDelegater.m:177:12: warning: variable 'resSts' is uninitialized when used here [-Wuninitialized]
+o    return resSts;
+o           ^~~~~~
+o/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SendInfoDelegater.m:171:21: note: initialize the variable 'resSts' to silence this warning
+o    NSInteger resSts;
+o                    ^
+o                     = 0
+o3 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SendInfoDelegater.m250"CompileC DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/SendInfoDelegater.o ExamJenkins/SendInfoDelegater.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3b00dea492e7b841^bcea19a592e7b841^-1035"/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SendInfoDelegater.m:76:15: warning: unused variable 'excludeAppKeys' [-Wunused-variable]    NSString *excludeAppKeys = [SendInfoDelegater excludeAppKeys2NSString];              ^/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SendInfoDelegater.m:147:16: warning: unused variable 'recvData' [-Wunused-variable]        NSDictionary *recvData = [NSJSONSerialization JSONObjectWithData:receiveData options:NSJSONReadingAllowFragments error:&JsonErr];                      ^/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SendInfoDelegater.m:177:12: warning: variable 'resSts' is uninitialized when used here [-Wuninitialized]    return resSts;           ^~~~~~/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SendInfoDelegater.m:171:21: note: initialize the variable 'resSts' to silence this warning    NSInteger resSts;                    ^                     = 03 warnings generated.3(36%IDEClangDiagnosticActivityLogMessage2@32"Unused variable 'excludeAppKeys'-417829541#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@97"file:///Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SendInfoDelegater.m0000000000000000^75#14#75#14#1995#0#19"Unused Entity Issue--2@26"Unused variable 'recvData'-417829541#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@97"file:///Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SendInfoDelegater.m0000000000000000^146#15#146#15#4336#0#19"Unused Entity Issue--2@49"Variable 'resSts' is uninitialized when used here-417829541#18446744073709551615#0#1(2@56"Initialize the variable 'resSts' to silence this warning-417829541#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@97"file:///Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SendInfoDelegater.m0000000000000000^170#20#170#20#5137#0#14"Semantic Issue1(3@97"file:///Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SendInfoDelegater.m0000000000000000^170#20#170#20#5137#0#-1#27"com.apple.dt.IDE.diagnostic3@97"file:///Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SendInfoDelegater.m0000000000000000^176#11#176#11#5357#0#14"Semantic Issue1(3@97"file:///Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SendInfoDelegater.m0000000000000000^176#11#176#17#5357#0#-0#0#1#-19%DVTDocumentLocation4@97"file:///Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SendInfoDelegater.m0000000000000000^4401"CompileC DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/SendInfoDelegater.o ExamJenkins/SendInfoDelegater.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/ExamJenkins-generated-files.hmap -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/ExamJenkins-own-target-headers.hmap -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/ExamJenkins-all-target-headers.hmap -iquote /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/ExamJenkins-project-headers.hmap -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/DerivedSources/i386 -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/DerivedSources -F/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator -include /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/PrecompiledHeaders/ExamJenkins-Prefix-eygwcpyhplpwpwbhpirshhvialnk/ExamJenkins-Prefix.pch -MMD -MT dependencies -MF /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/SendInfoDelegater.d --serialize-diagnostics /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/SendInfoDelegater.dia -c /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/SendInfoDelegater.m -o /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/SendInfoDelegater.o36"53FB427D-C25B-4E1C-82A0-1F867D56B75D-
+b57D4A075-EFA9-4147-A884-8A6405A263DE
+
+CCompileC DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/ViewController.o /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417829541.166749
+e417829541.239390
+r1
+xCompileC
+xDerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/ViewController.o
+x/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/ViewController.m
+d/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/ViewController.m244"CompileC DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/ViewController.o ExamJenkins/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerddce2aa592e7b841^384b3da592e7b841^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/ViewController.m0000000000000000^4383"CompileC DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/ViewController.o ExamJenkins/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/ExamJenkins-generated-files.hmap -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/ExamJenkins-own-target-headers.hmap -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/ExamJenkins-all-target-headers.hmap -iquote /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/ExamJenkins-project-headers.hmap -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/DerivedSources/i386 -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/DerivedSources -F/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator -include /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/PrecompiledHeaders/ExamJenkins-Prefix-eygwcpyhplpwpwbhpirshhvialnk/ExamJenkins-Prefix.pch -MMD -MT dependencies -MF /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/ViewController.dia -c /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/ViewController.m -o /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/ViewController.o36"8B023554-49BF-418B-9D23-9A6491FBABA3-
+b57D4A075-EFA9-4147-A884-8A6405A263DE
+
+CCompileC DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/main.o /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417829541.669716
+e417829541.711370
+r1
+xCompileC
+xDerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/main.o
+x/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/main.m
+d/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/main.m224"CompileC DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/main.o ExamJenkins/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0c91aba592e7b841^d11fb6a592e7b841^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/main.m0000000000000000^4323"CompileC DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/main.o ExamJenkins/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/ExamJenkins-generated-files.hmap -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/ExamJenkins-own-target-headers.hmap -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/ExamJenkins-all-target-headers.hmap -iquote /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/ExamJenkins-project-headers.hmap -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/DerivedSources/i386 -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/DerivedSources -F/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator -include /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/PrecompiledHeaders/ExamJenkins-Prefix-eygwcpyhplpwpwbhpirshhvialnk/ExamJenkins-Prefix.pch -MMD -MT dependencies -MF /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/main.dia -c /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/main.m -o /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/main.o36"EAFA8975-3EF6-44FB-9828-B9D19B90BBF9-
+b57D4A075-EFA9-4147-A884-8A6405A263DE
+
+CCompileStoryboard /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/Base.lproj/Main_iPad.storyboard
+s417829542.874622
+e417829543.045117
+r1
+xCompileStoryboard
+x/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/Base.lproj/Main_iPad.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"CompileStoryboard ExamJenkins/Base.lproj/Main_iPad.storyboard61"CompileStoryboard ExamJenkins/Base.lproj/Main_iPad.storyboardadfbdfa692e7b841^048f0ba792e7b841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/Base.lproj/Main_iPad.storyboard0000000000000000^950"CompileStoryboard ExamJenkins/Base.lproj/Main_iPad.storyboard    cd /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/Base.lproj/Main_iPad.storyboardc /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/Base.lproj/Main_iPad.storyboard36"B900D71C-2353-4F11-A930-CF677F36FD7D-
+b57D4A075-EFA9-4147-A884-8A6405A263DE
+
+CCompileStoryboard /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/Base.lproj/Main_iPhone.storyboard
+s417829543.160920
+e417829543.248849
+r1
+xCompileStoryboard
+x/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/Base.lproj/Main_iPhone.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"CompileStoryboard ExamJenkins/Base.lproj/Main_iPhone.storyboard63"CompileStoryboard ExamJenkins/Base.lproj/Main_iPhone.storyboardb24629a792e7b841^27a055a792e7b841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/Base.lproj/Main_iPhone.storyboard0000000000000000^956"CompileStoryboard ExamJenkins/Base.lproj/Main_iPhone.storyboard    cd /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/Base.lproj/Main_iPhone.storyboardc /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/Base.lproj/Main_iPhone.storyboard36"F9302B21-8480-45F6-927D-DB3BB2C88695-
+b57D4A075-EFA9-4147-A884-8A6405A263DE
+
+CCopyStringsFile /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/en.lproj/InfoPlist.strings ExamJenkins/en.lproj/InfoPlist.strings
+s417829543.389766
+e417829543.391875
+r1
+xCopyStringsFile
+x/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/en.lproj/InfoPlist.strings
+xExamJenkins/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy ExamJenkins/en.lproj/InfoPlist.strings158"CopyStringsFile DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/en.lproj/InfoPlist.strings ExamJenkins/en.lproj/InfoPlist.stringscfdc63a792e7b841^e75264a792e7b841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/en.lproj/InfoPlist.strings0000000000000000^697"CopyStringsFile DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/en.lproj/InfoPlist.strings ExamJenkins/en.lproj/InfoPlist.strings    cd /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/en.lproj -- ExamJenkins/en.lproj/InfoPlist.strings36"BB81823D-C81C-4D09-8D3C-1EDE81018190-
+b57D4A075-EFA9-4147-A884-8A6405A263DE
+
+CGenerateDSYMFile /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app.dSYM /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/ExamJenkins
+s417829545.226324
+e417829545.267074
+r1
+xGenerateDSYMFile
+x/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app.dSYM
+x/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/ExamJenkins
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection149"Generate /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app.dSYM187"GenerateDSYMFile DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app.dSYM DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/ExamJenkinsfb023aa992e7b841^465c44a992e7b841^---0#0#1#-19%DVTDocumentLocation2@147"file:///Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app.dSYM00346c64dcffdf42^841"GenerateDSYMFile DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app.dSYM DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/ExamJenkins    cd /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/ExamJenkins -o /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app.dSYM36"C8F3105C-A2FF-483A-96F0-4F34A988615F-
+b57D4A075-EFA9-4147-A884-8A6405A263DE
+
+CLd /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/ExamJenkins normal i386
+s417829542.174913
+e417829542.453841
+r1
+xLd
+x/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/ExamJenkins
+xnormal
+xi386
+d/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/ExamJenkins.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/SendInfoDelegater.o
+d/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/SDK.o
+d/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/ViewController.o
+d/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/Info.o
+d/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/NSString+APUtility.o
+d/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/AppDelegate.o
+d/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection152"Link /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/ExamJenkins103"Ld DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/ExamJenkins normal i38644e02ca692e7b841^a52f74a692e7b841^---0#0#1#--1693"Ld DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/ExamJenkins normal i386    cd /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator -F/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator -filelist /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/ExamJenkins.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/Objects-normal/i386/ExamJenkins_dependency_info.dat -o /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/ExamJenkins36"2EDB2ECC-1BC4-41B6-B710-ADE3870240FD-
+b57D4A075-EFA9-4147-A884-8A6405A263DE
+
+CProcessInfoPlistFile /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/Info.plist /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/ExamJenkins-Info.plist
+s417829544.814754
+e417829544.817383
+r1
+xProcessInfoPlistFile
+x/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/Info.plist
+x/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/ExamJenkins-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Process /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/ExamJenkins-Info.plist143"ProcessInfoPlistFile DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/Info.plist ExamJenkins/ExamJenkins-Info.plist37a9d0a892e7b841^aa44d1a892e7b841^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/ExamJenkins-Info.plist0000000000000000^1114"ProcessInfoPlistFile DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/Info.plist ExamJenkins/ExamJenkins-Info.plist    cd /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/ExamJenkins-Info.plist -genpkginfo /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/assetcatalog_generated_info.plist -o /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app/Info.plist36"DDBF2975-13B2-4FB3-A42B-FAC58AA1E256-
+b57D4A075-EFA9-4147-A884-8A6405A263DE
+
+CProcessPCH /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/PrecompiledHeaders/ExamJenkins-Prefix-eygwcpyhplpwpwbhpirshhvialnk/ExamJenkins-Prefix.pch.pch ExamJenkins/ExamJenkins-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417829537.567858
+e417829539.500851
+r1
+xProcessPCH
+x/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/PrecompiledHeaders/ExamJenkins-Prefix-eygwcpyhplpwpwbhpirshhvialnk/ExamJenkins-Prefix.pch.pch
+xExamJenkins/ExamJenkins-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/ExamJenkins-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile ExamJenkins/ExamJenkins-Prefix.pch251"ProcessPCH DerivedData/ExamJenkins/Build/Intermediates/PrecompiledHeaders/ExamJenkins-Prefix-eygwcpyhplpwpwbhpirshhvialnk/ExamJenkins-Prefix.pch.pch ExamJenkins/ExamJenkins-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbaa191a192e7b841^e33880a392e7b841^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/ExamJenkins-Prefix.pch0000000000000000^4194"ProcessPCH DerivedData/ExamJenkins/Build/Intermediates/PrecompiledHeaders/ExamJenkins-Prefix-eygwcpyhplpwpwbhpirshhvialnk/ExamJenkins-Prefix.pch.pch ExamJenkins/ExamJenkins-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/ExamJenkins-generated-files.hmap -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/ExamJenkins-own-target-headers.hmap -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/ExamJenkins-all-target-headers.hmap -iquote /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/ExamJenkins-project-headers.hmap -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/DerivedSources/i386 -I/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/ExamJenkins.build/Debug-iphonesimulator/ExamJenkins.build/DerivedSources -F/Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/PrecompiledHeaders/ExamJenkins-Prefix-eygwcpyhplpwpwbhpirshhvialnk/ExamJenkins-Prefix.pch.dia -MMD -MT dependencies -MF /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/PrecompiledHeaders/ExamJenkins-Prefix-eygwcpyhplpwpwbhpirshhvialnk/ExamJenkins-Prefix.pch.d -c /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/ExamJenkins/ExamJenkins-Prefix.pch -o /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Intermediates/PrecompiledHeaders/ExamJenkins-Prefix-eygwcpyhplpwpwbhpirshhvialnk/ExamJenkins-Prefix.pch.pch36"C6DB135B-2626-40D3-8A67-D074E24DE4BD-
+b57D4A075-EFA9-4147-A884-8A6405A263DE
+
+CProcessPCH /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Index/PrecompiledHeaders/ExamJenkins-Prefix-dpmxwdgzygznnmapkjsvrfejymfg_ast/ExamJenkins-Prefix.pch.pch ExamJenkins/ExamJenkins-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/1cochan/Dropbox/XCodeProject_macbookpro/ExamJenkins/DerivedData/ExamJenkins/Build/Products/Debug-iphonesimulator/ExamJenkins.app
+r0
+

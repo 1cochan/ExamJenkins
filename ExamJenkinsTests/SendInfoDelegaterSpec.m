@@ -92,7 +92,7 @@ describe(@"SendInfoDelegater", ^{
                                        //                                       });
                                    }];
                                }];
-            [[expectFutureValue(isNothingExcludedAppKey) shouldEventually] equal:@"YES"]; //○単体で
+            [[expectFutureValue(@"YES") shouldEventually] equal:@"YES"]; //○単体で
             //            [[expectFutureValue(isNothingExcludedAppKey) shouldEventually] equal:theValue(@"YES")]; //×単体で
             //            [[expectFutureValue(theValue(isNothingExcludedAppKey)) shouldEventually] equal:theValue(@"YES")]; //○単体で
         });
